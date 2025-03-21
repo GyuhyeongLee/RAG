@@ -1,0 +1,29 @@
+# 가상환경
+venv/
+.env
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+
+# 데이터 파일
+*.db
+*.sqlite3
+*.log
+
+# OS 파일
+.DS_Store
+
+# Docker 이미지 파일
+*.tar
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# 기타 백업 파일
+*.bak
+*.swp
+
+#docker이미지파일 무시
+*.tar
